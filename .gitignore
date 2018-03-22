@@ -1,0 +1,8 @@
+# Pycharm project settings
+.idea/
+
+#model dir
+wdir/
+
+#inference dir
+wdir_inference/trans
