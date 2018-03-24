@@ -6,3 +6,6 @@ wdir/
 
 #inference dir
 wdir_inference/trans
+
+#data dir
+data/
